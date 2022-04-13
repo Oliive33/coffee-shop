@@ -469,11 +469,11 @@ section {
 
 @media (max-width: 768px) {
   .heading {
-    font-size: 6rem;
+    font-size: 3.5rem;
   }
 
   .heading span {
-    font-size: 2.3rem;
+    font-size: 2.1rem;
   }
 
   #menu-btn {
@@ -499,7 +499,7 @@ section {
 
   .header .navbar a {
     display: block;
-    font-size: 2.2rem;
+    font-size: 2.1rem;
     margin: 0;
     padding: 1.5rem 2rem;
   }
@@ -509,7 +509,7 @@ section {
   }
 
   .home .row .content h3 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .menu .box-container .box {
